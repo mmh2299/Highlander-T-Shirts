@@ -1,0 +1,48 @@
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #fdd835;
+	text-align:center;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	display:block;
+	color: black;
+	text-align: center;
+	padding: 3px 65.97px;
+	text-decoration: none;
+	
+}
+
+li a:hover{
+	background:#FFFFE0
+}
+
+#heading {
+
+	text-align: center;
+}
+
+img {
+	max-width: 50%;
+	max-height: 50%;
+}
+
+.mission {
+	height: 200px;
+	width:200px;
+}
+
+#top {
+
+	text-align: center;
+}
+h1 {
+	text-transform: uppercase;
+}

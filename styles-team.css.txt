@@ -1,0 +1,151 @@
+h1 {
+
+	text-transform: uppercase;
+}
+
+#top {
+
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #fdd835;
+	text-align:center;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	display:block;
+	color: black;
+	text-align: center;
+	padding: 3px 65.97px;
+	text-decoration: none;
+	
+}
+
+li a:hover{
+	background:#FFFFE0
+}
+
+#heading {
+
+	text-align: center;
+
+}
+
+
+img {
+	max-width: 30%;
+	max-height: 30%;
+	
+}
+
+.alex {
+	height: 200px;
+	width: 200px;
+}
+
+
+
+
+img {
+	max-width: 30%;
+	max-height: 30%;
+	
+}
+
+.rebecca {
+	height: 200px;
+	width: 200px;
+}
+
+
+img {
+	max-width: 30%;
+	max-height: 30%;
+	
+}
+
+.Adi {
+	height: 200px;
+	width: 200px;
+}
+
+
+
+
+
+
+#alex {
+	display: grid;
+	grid-template-rows: 1fr;
+	
+	
+	
+}
+
+#rebecca {
+	display: grid;
+	grid-template-rows: 1fr;
+	
+
+}
+
+#adi {
+	display: grid;
+	grid-template-rows: 1fr;
+	
+
+}
+
+
+#alex {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#rebecca {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#adi {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+h4 {
+	text-align: center;
+}
+
+#alex1 {
+	text-align:center;
+}
+
+#rebecca2 {
+	text-align:center;
+}
+
+#adi3 {
+	text-align:center;
+}
+

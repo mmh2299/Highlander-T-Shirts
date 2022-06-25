@@ -1,0 +1,75 @@
+h1 {
+
+	text-transform: uppercase;
+}
+
+#top {
+
+	text-align: center;
+}
+
+h2 {
+
+	text-align: center;
+
+
+}
+
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #fdd835;
+	text-align:center;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	display:block;
+	color: black;
+	text-align: center;
+	padding: 3px 65.97px;
+	text-decoration: none;
+	
+}
+
+li a:hover{
+	background:#FFFFE0
+}
+
+
+img {
+	max-width: 50%;
+	max-height: 50%;
+	
+}
+
+.phone {
+	height: 200px;
+	width: 200px;
+}
+
+aside {
+
+float: left;	width: 420px;	
+min-height: 480px;    
+padding-right: 20px;    
+padding-top: 20px;    
+text-align: justify;    
+}
+
+img {
+	max-width: 50%;
+	max-height: 50%;
+	
+}
+
+.FB {
+	height: 200px;
+	width: 200px;
+
